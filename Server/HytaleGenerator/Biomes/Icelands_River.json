@@ -568,7 +568,7 @@
 					"Skip":	false,
 					"Material":	{
 						"$NodeId":	"Material-b39ad0d8-278b-4039-8ff2-36cf6a37f9f4",
-						"Solid":	"Rock_Stone",
+						"Solid":	"Soil_Snow",
 						"SolidBottomUp":	false
 					}
 				}]
@@ -808,7 +808,7 @@
 		"$NodeId":	"Constant.EnvironmentProvider-9d435dc0-ffa2-4de6-886d-c6e8b54f3b44",
 		"Type":	"Constant",
 		"Skip":	false,
-		"Environment":	"Env_Zone1_Plains"
+		"Environment":	"Env_Zone3_Glacial"
 	},
 	"TintProvider":	{
 		"$NodeId":	"Constant.TintProvider-20fa68de-61e3-4ecc-aac3-9af55bc33e29",

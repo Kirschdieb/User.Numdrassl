@@ -1,7 +1,7 @@
 {
   "Type": "NoiseRange",
   "Biomes": [],
-  "DefaultBiome": "Ponds",
+  "DefaultBiome": "Challenge_005",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance": 32,
   "Density": {

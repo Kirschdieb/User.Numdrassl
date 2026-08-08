@@ -1,0 +1,61 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Cloth_Roof_Hide_Flap.name"
+  },
+  "Categories": [
+    "Blocks.Cloth"
+  ],
+  "SubCategory": "RoofBlocks",
+  "BlockType": {
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Structures/Roofs/Cloth_Roof_Vertical_Flap.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Cloth/Tent_Hide_Black_001.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Roof",
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Support": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "SoftBlocks",
+        "ItemId": "Cloth_Roof_Hide_Flap"
+      }
+    },
+    "BlockParticleSetId": "Grass",
+    "HitboxType": "Block_Vertical_Flat",
+    "BlockSoundSetId": "Cloth",
+    "PhysicalMaterialId": "Cloth",
+    "ParticleColor": "#966936",
+    "TextureComputedColor": "#986B37"
+  },
+  "PlayerAnimationsId": "Block",
+  "IconProperties": {
+    "Scale": 0.72,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      11.1,
+      -22.5
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Cloth_Roof_Hide_Flap_Black.png",
+  "Tags": {
+    "Type": [
+      "Cloth"
+    ],
+    "Family": [
+      "Hide"
+    ],
+    "SubType": [
+      "Roof"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Cloth"
+}
