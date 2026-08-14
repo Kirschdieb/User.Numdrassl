@@ -2,13 +2,8 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome" : "Basic",
-      "Min" : -2,
-      "Max" : -1
-    },
-    {
       "Biome" : "Oceans_Numdrassl",
-      "Min" : -1,
+      "Min" : -2,
       "Max" : 0.5
     },
     {

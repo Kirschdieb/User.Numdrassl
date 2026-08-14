@@ -1404,6 +1404,12 @@
 					"$y":	-10269
 				}
 			},
+			"YSampled.Density-a169676c-5ce5-4693-922d-911f8e8c6578":	{
+				"$Position":	{
+					"$x":	-1014,
+					"$y":	-10641
+				}
+			},
 			"Mix.Density-c4a4ddfc-ed2c-49b4-b86a-2d9e9f8feaea":	{
 				"$Position":	{
 					"$x":	-327,
@@ -2176,6 +2182,18 @@
 				"$Position":	{
 					"$x":	8430,
 					"$y":	-6813
+				}
+			},
+			"DensityGradient.VectorProvider-c952a32e-18a6-4f79-ab73-50bc35697922":	{
+				"$Position":	{
+					"$x":	9106,
+					"$y":	-6817
+				}
+			},
+			"Imported.Density-c05e30be-6e08-411e-a218-95760906ac2b":	{
+				"$Position":	{
+					"$x":	9861,
+					"$y":	-6907
 				}
 			},
 			"Delimiter.FieldFunction.MaterialProvider-777a77ea-0bae-4ef7-ba3c-e1ef86d5b0ec":	{
@@ -2952,10 +2970,10 @@
 					"$y":	-749
 				}
 			},
-			"Generic-8da784eb-99ee-42b1-94e8-67a6f20cc4c1":	{
+			"Generic":	{
 				"$Position":	{
-					"$x":	3160,
-					"$y":	-12141
+					"$x":	0,
+					"$y":	0
 				}
 			},
 			"Min.Curve-d1061ff3-66c1-40a9-ba7a-479c3e367a72":	{
@@ -3102,10 +3120,10 @@
 					"$y":	-23553
 				}
 			},
-			"Generic-7497d662-afda-4758-ab70-f4c85e99d477":	{
+			"Generic":	{
 				"$Position":	{
-					"$x":	10306,
-					"$y":	-15337
+					"$x":	0,
+					"$y":	0
 				}
 			},
 			"Delimiter.DensitySelector.Prop-ef0b2c6b-a824-406e-9957-a07d016aad2b":	{
@@ -3166,24 +3184,6 @@
 				"$Position":	{
 					"$x":	5503,
 					"$y":	1832
-				}
-			},
-			"DensityGradient.VectorProvider-c952a32e-18a6-4f79-ab73-50bc35697922":	{
-				"$Position":	{
-					"$x":	9106,
-					"$y":	-6817
-				}
-			},
-			"Imported.Density-c05e30be-6e08-411e-a218-95760906ac2b":	{
-				"$Position":	{
-					"$x":	9861,
-					"$y":	-6907
-				}
-			},
-			"YSampled.Density-a169676c-5ce5-4693-922d-911f8e8c6578":	{
-				"$Position":	{
-					"$x":	-1014,
-					"$y":	-10641
 				}
 			}
 		},
