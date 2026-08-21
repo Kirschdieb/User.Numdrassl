@@ -1454,32 +1454,32 @@
 			},
 			"CurvePoint.Curve-a5702394-f2ec-408d-922a-e29df860b053":	{
 				"$Position":	{
-					"$x":	3166,
-					"$y":	-12472
+					"$x":	3500,
+					"$y":	-12487
 				}
 			},
 			"CurvePoint.Curve-ec10115d-9de9-4a3d-87a0-0d4b8d99b19e":	{
 				"$Position":	{
-					"$x":	3161,
-					"$y":	-12291
+					"$x":	3495,
+					"$y":	-12306
 				}
 			},
 			"CurvePoint.Curve-411be323-c029-4a13-a823-d2f280e9f919":	{
 				"$Position":	{
-					"$x":	3153,
-					"$y":	-11970
+					"$x":	3487,
+					"$y":	-11985
 				}
 			},
 			"CurvePoint.Curve-3a09f6f4-280e-4cc5-88fe-c10580154f4a":	{
 				"$Position":	{
-					"$x":	3152,
-					"$y":	-11820
+					"$x":	3486,
+					"$y":	-11835
 				}
 			},
 			"CurvePoint.Curve-8a40f5d6-ece6-4ceb-8a87-0df7617a41ef":	{
 				"$Position":	{
-					"$x":	3152,
-					"$y":	-11664
+					"$x":	3486,
+					"$y":	-11679
 				}
 			},
 			"BaseHeight.Density-0c8e297d-3747-468d-a9f6-540e12c3d41f":	{
@@ -1508,8 +1508,8 @@
 			},
 			"Sum.Density-331f54a9-7916-44ea-89ed-2e5dacb9c57f":	{
 				"$Position":	{
-					"$x":	8723,
-					"$y":	-21355
+					"$x":	8716,
+					"$y":	-21295
 				}
 			},
 			"Multiplier.Density-c4c70eab-e02b-4280-9b46-bcc621e4ae31":	{
@@ -1646,26 +1646,26 @@
 			},
 			"CurvePoint.Curve-e0ea96b5-ef9a-46a1-bb5e-9e05a39d51cf":	{
 				"$Position":	{
-					"$x":	9777,
-					"$y":	-18886
+					"$x":	9905,
+					"$y":	-18840
 				}
 			},
 			"CurvePoint.Curve-a656d87f-a97a-466e-af0c-9503b3e25180":	{
 				"$Position":	{
-					"$x":	9779,
-					"$y":	-18742
+					"$x":	9907,
+					"$y":	-18696
 				}
 			},
 			"CurvePoint.Curve-5c725194-d5e8-4427-b946-b64cd1e09050":	{
 				"$Position":	{
-					"$x":	9779,
-					"$y":	-18599
+					"$x":	9907,
+					"$y":	-18553
 				}
 			},
 			"CurvePoint.Curve-3d09cb49-92b0-4b9e-a54c-6eabd3750740":	{
 				"$Position":	{
-					"$x":	9779,
-					"$y":	-18457
+					"$x":	9907,
+					"$y":	-18411
 				}
 			},
 			"Imported.Density-50570989-de67-49a1-a63f-5fbbed841053":	{
@@ -1736,8 +1736,8 @@
 			},
 			"SimplexNoise2D.Density-738ac67e-2635-4e0d-a8f3-c8136069bc58":	{
 				"$Position":	{
-					"$x":	9898,
-					"$y":	-16272
+					"$x":	9894,
+					"$y":	-16283
 				}
 			},
 			"Constant.Density-cc4bf482-6be1-4feb-ad40-1e9f4916beee":	{
@@ -1760,14 +1760,14 @@
 			},
 			"CurvePoint.Curve-e757e2ba-16ad-4da8-98ed-b7cea6a5e9dc":	{
 				"$Position":	{
-					"$x":	10296,
-					"$y":	-15641
+					"$x":	10580,
+					"$y":	-15538
 				}
 			},
 			"CurvePoint.Curve-be8ce8fc-5317-4b00-9034-9fd1ac958bd9":	{
 				"$Position":	{
-					"$x":	10303,
-					"$y":	-15489
+					"$x":	10580,
+					"$y":	-15395
 				}
 			},
 			"BaseHeight.Density-1975d1a2-ec61-4f0d-941f-77c8f4937aaa":	{
@@ -1790,20 +1790,20 @@
 			},
 			"Manual.Curve-7ba668ae-ea68-43cc-b0e6-0cde62b99390":	{
 				"$Position":	{
-					"$x":	8965,
-					"$y":	-14989
+					"$x":	8907,
+					"$y":	-14869
 				}
 			},
 			"CurvePoint.Curve-144ba07f-5b12-4847-8d5e-55f0b1d034e7":	{
 				"$Position":	{
-					"$x":	9639,
-					"$y":	-14936
+					"$x":	9800,
+					"$y":	-14916
 				}
 			},
 			"CurvePoint.Curve-25103905-d2a8-44b0-8ba6-9a497e3d01e8":	{
 				"$Position":	{
-					"$x":	9638,
-					"$y":	-14785
+					"$x":	9800,
+					"$y":	-14773
 				}
 			},
 			"SimplexNoise2D.Density-c135a8c7-dd70-4f57-8cc7-dc44ac761412":	{
@@ -1844,26 +1844,26 @@
 			},
 			"CurvePoint.Curve-beb6b419-78d9-4341-87a0-1f391d5d852a":	{
 				"$Position":	{
-					"$x":	9316,
-					"$y":	-13324
+					"$x":	9503,
+					"$y":	-13400
 				}
 			},
 			"CurvePoint.Curve-ecb8ff26-649f-42e7-9a19-564424e019c9":	{
 				"$Position":	{
-					"$x":	9318,
-					"$y":	-13180
+					"$x":	9505,
+					"$y":	-13256
 				}
 			},
 			"CurvePoint.Curve-7d3b4165-c44b-4710-986c-46f2c6332b4a":	{
 				"$Position":	{
-					"$x":	9318,
-					"$y":	-13037
+					"$x":	9505,
+					"$y":	-13113
 				}
 			},
 			"CurvePoint.Curve-2645474f-d869-4637-83fb-c17e13bcbf4d":	{
 				"$Position":	{
-					"$x":	9318,
-					"$y":	-12895
+					"$x":	9505,
+					"$y":	-12971
 				}
 			},
 			"Imported.Density-a6c024e1-5d78-458d-98c3-e836b5409ae9":	{
@@ -3383,7 +3383,7 @@
 					"$x":	6302,
 					"$y":	-17070.8125
 				},
-				"$width":	4542.25,
+				"$width":	4847.3125,
 				"$height":	4583.125,
 				"$name":	"Cliffs Low"
 			}, {
