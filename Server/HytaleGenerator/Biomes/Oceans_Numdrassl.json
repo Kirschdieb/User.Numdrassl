@@ -135,7 +135,7 @@
 					"Skip":	false,
 					"Material":	{
 						"$NodeId":	"Material-e8a9fc62-3113-489c-a5fe-bd4ac8c7553b",
-						"Solid":	"Rock_Stone",
+						"Solid":	"Soil_Clay_White",
 						"SolidBottomUp":	false
 					}
 				}]

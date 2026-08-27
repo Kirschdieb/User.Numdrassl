@@ -1,0 +1,351 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 3,
+  "anchorY": 1,
+  "anchorZ": 14,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 1,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 17,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 17,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 12,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 12,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 13,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 16,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 14,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 15,
+      "name": "Plant_Bush"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 15,
+      "name": "Plant_Bush"
+    }
+  ]
+}
