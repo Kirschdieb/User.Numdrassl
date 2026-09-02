@@ -2311,32 +2311,32 @@
 			},
 			"CurvePoint.Curve-df5d3a84-4336-4196-a480-69859207c9c0":	{
 				"$Position":	{
-					"$x":	8853,
-					"$y":	-20095
+					"$x":	9030,
+					"$y":	-20093
 				}
 			},
 			"CurvePoint.Curve-8450fea3-9bfa-4e2a-b5d5-647630915edc":	{
 				"$Position":	{
-					"$x":	8849,
-					"$y":	-19927
+					"$x":	9030,
+					"$y":	-19962
 				}
 			},
 			"CurvePoint.Curve-91e15800-15a0-44a8-95fe-40ef7a68fa2a":	{
 				"$Position":	{
-					"$x":	8844,
-					"$y":	-19749
+					"$x":	9030,
+					"$y":	-19829
 				}
 			},
 			"CurvePoint.Curve-2ff9a9c7-1936-4ab8-b751-afcb2e324d91":	{
 				"$Position":	{
-					"$x":	8830,
-					"$y":	-19588
+					"$x":	9030,
+					"$y":	-19696
 				}
 			},
 			"CurvePoint.Curve-03a7b348-9b41-4cb1-afbc-71d24ddd3908":	{
 				"$Position":	{
-					"$x":	8826,
-					"$y":	-19421
+					"$x":	9030,
+					"$y":	-19563
 				}
 			},
 			"BaseHeight.Density-9761bb2b-ebf2-4c61-875d-66f56c45749f":	{
@@ -4595,14 +4595,6 @@
 		"$Links":	{
 		},
 		"$Groups":	[{
-				"$Position":	{
-					"$x":	-6365.875,
-					"$y":	-6980.8125
-				},
-				"$width":	2362.3125,
-				"$height":	938.9375,
-				"$name":	"Base"
-			}, {
 				"$Position":	{
 					"$x":	6363,
 					"$y":	-21977.625
