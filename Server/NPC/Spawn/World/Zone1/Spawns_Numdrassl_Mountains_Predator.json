@@ -1,0 +1,16 @@
+{
+  "Environments": [
+    "Env_Numdrassl_Continental"
+  ],
+  "NPCs": [
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Soil",
+      "Id": "Bear_Grizzly"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}
